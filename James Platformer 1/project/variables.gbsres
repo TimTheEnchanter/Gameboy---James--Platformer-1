@@ -150,6 +150,11 @@
       "id": "5fa52cd0-57cd-414c-8b93-5601c6e9636f__L0",
       "name": "Defeated",
       "symbol": ""
+    },
+    {
+      "id": "0598365d-b10a-4321-b0db-5cfb72a4570d__L0",
+      "name": "Save Choice",
+      "symbol": "var_save_choice"
     }
   ]
 }
