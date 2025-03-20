@@ -20,7 +20,7 @@
       "command": "EVENT_TEXT",
       "args": {
         "text": [
-          "Playing the piano without opposable thumbs sure is hard!"
+          "Playing the piano without\nopposable thumbs sure\nis hard!"
         ],
         "__section": "text",
         "avatarId": "",
