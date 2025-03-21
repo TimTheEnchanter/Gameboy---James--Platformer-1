@@ -10,7 +10,7 @@
   "type": "PLATFORM",
   "paletteIds": [],
   "spritePaletteIds": [],
-  "collisions": "00460+0f50+00f0+",
+  "collisions": "0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f!004f+0f50+00f0+",
   "autoFadeSpeed": 1,
   "symbol": "scene_19",
   "x": 1471,
