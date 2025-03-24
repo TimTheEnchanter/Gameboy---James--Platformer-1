@@ -1,7 +1,7 @@
 {
   "_resourceType": "scene",
   "id": "51d42da5-b7ce-48b4-a435-1902368d6d5c",
-  "_index": 7,
+  "_index": 5,
   "type": "TOPDOWN",
   "name": "space/Deep Space",
   "symbol": "scene_deep_space",
@@ -77,5 +77,5 @@
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": [],
-  "collisions": "00400+"
+  "collisions": "002af+0f!00150+"
 }
