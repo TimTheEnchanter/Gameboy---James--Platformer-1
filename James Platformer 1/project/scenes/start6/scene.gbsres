@@ -2,7 +2,7 @@
   "_resourceType": "scene",
   "id": "16e71c13-0f7d-4c8b-9a4d-7b1d8cd2c15d",
   "_index": 7,
-  "name": "Scene 9",
+  "name": "start6",
   "backgroundId": "40fda058-df90-4205-a239-fe77bce4fa79",
   "tilesetId": "",
   "width": 32,
@@ -15,7 +15,15 @@
   "symbol": "scene_9",
   "x": 1292,
   "y": 592,
-  "script": [],
+  "script": [
+    {
+      "command": "EVENT_MUSIC_PLAY",
+      "args": {
+        "musicId": "9e63fcea-bb03-4921-81df-6f223d2044ad"
+      },
+      "id": "e6d8d4d2-5def-47b2-9191-f26119ee4d63"
+    }
+  ],
   "playerHit1Script": [],
   "playerHit2Script": [],
   "playerHit3Script": []

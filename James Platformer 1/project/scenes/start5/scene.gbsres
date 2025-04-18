@@ -104,7 +104,7 @@
       "id": "e64c61a6-9451-4315-9d00-048142d5d9aa",
       "command": "EVENT_MUSIC_PLAY",
       "args": {
-        "musicId": "a7c68b7f-00bc-4872-9ce8-fe5e62f9b565",
+        "musicId": "4e70bb53-9a1c-4236-8da8-5de56b3fbd6a",
         "loop": true
       }
     },
